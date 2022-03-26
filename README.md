@@ -21,4 +21,4 @@ You can comment line which you think don't needed to install.
 
 6) type this command
 
-	   chmod +744 phpDatabase.sh
+	   chmod +744 startup.sh
